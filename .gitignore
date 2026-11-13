@@ -1,0 +1,27 @@
+node_modules/
+dist/
+dist-mcp/
+release/
+test-results/
+.env*
+*.log
+.DS_Store
+
+# 本地文献、提取正文、整理记录及个人配置不属于软件源码
+literature/
+待整理/
+supplementary/
+logs/
+summary/
+.codex/
+scripts/AUX_*
+__pycache__/
+*.py[cod]
+*.pdf
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+runtime.json
+folders.json
+*.lnk
